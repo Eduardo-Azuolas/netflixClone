@@ -22,7 +22,7 @@
 }
 
 .row__poster:hover {
-  transform: sclae(1.08);
+  transform: scale(1.08);
   opacity: 1;
 }
 
